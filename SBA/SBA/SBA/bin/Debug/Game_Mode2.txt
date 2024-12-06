@@ -1,0 +1,11 @@
+時間（秒）:8
+1vs Game_Mode2
+===
+時間（秒）:14
+1vs Game_Mode2
+Game_Mode2,已勝出此遊戲
+===
+時間（秒）:1
+1vs Game_Mode2
+1,已勝出此遊戲
+===

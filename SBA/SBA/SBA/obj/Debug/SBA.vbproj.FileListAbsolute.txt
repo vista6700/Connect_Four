@@ -1,0 +1,11 @@
+U:\SBA\SBA\bin\Debug\SBA.exe.config
+U:\SBA\SBA\bin\Debug\SBA.exe
+U:\SBA\SBA\bin\Debug\SBA.pdb
+U:\SBA\SBA\bin\Debug\SBA.xml
+U:\SBA\SBA\obj\Debug\SBA.vbprojAssemblyReference.cache
+U:\SBA\SBA\obj\Debug\SBA.Resources.resources
+U:\SBA\SBA\obj\Debug\SBA.vbproj.GenerateResource.cache
+U:\SBA\SBA\obj\Debug\SBA.vbproj.CoreCompileInputs.cache
+U:\SBA\SBA\obj\Debug\SBA.exe
+U:\SBA\SBA\obj\Debug\SBA.xml
+U:\SBA\SBA\obj\Debug\SBA.pdb
